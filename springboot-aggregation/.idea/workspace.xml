@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="248de299-a0e9-4e67-b9a7-eaa47924ef4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Dependence/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xms1024m -Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1larmrEswSzZUEAxjeAxfAd98dC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cbd_repository/bigdata/baichuan" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootJpaApplication">
+    <configuration name="SpringbootMybatisplusApplicationTests.addUser4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootmybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootmybatisplus.SpringbootMybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="addUser4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisplusApplicationTests.testBatchDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootmybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootmybatisplus.SpringbootMybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testBatchDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisplusApplicationTests.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootmybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootmybatisplus.SpringbootMybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisplusApplicationTests.testDeleteDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootmybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootmybatisplus.SpringbootMybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testDeleteDemo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisplusApplicationTests.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootmybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootmybatisplus.SpringbootMybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootjpa.SpringbootJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootmybatis.SpringbootMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootmybatisplus.SpringbootMybatisplusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootMybatisplusApplicationTests.addUser4" />
+        <item itemvalue="JUnit.SpringbootMybatisplusApplicationTests.testDeleteDemo" />
+        <item itemvalue="JUnit.SpringbootMybatisplusApplicationTests.testBatchDeleteById" />
+        <item itemvalue="JUnit.SpringbootMybatisplusApplicationTests.testDeleteById" />
+        <item itemvalue="JUnit.SpringbootMybatisplusApplicationTests.testPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="248de299-a0e9-4e67-b9a7-eaa47924ef4e" name="Default Changelist" comment="" />
+      <created>1607846204075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607846204075</updated>
+      <workItem from="1607846205603" duration="4745000" />
+      <workItem from="1607852175915" duration="18216000" />
+      <workItem from="1607954926555" duration="1254000" />
+      <workItem from="1608046064812" duration="2436000" />
+      <workItem from="1608055576494" duration="602000" />
+      <workItem from="1608056513949" duration="1197000" />
+      <workItem from="1608214463554" duration="6177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="179" key="#Auto_Import" timestamp="1607875795658">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="179" key="#Auto_Import/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607875795658" />
+    <state x="2454" y="352" key="#Project_Structure" timestamp="1607853308457">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2454" y="352" key="#Project_Structure/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607853308457" />
+    <state x="2685" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1607875729980">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607875729980" />
+    <state x="3018" y="319" key="FileChooserDialogImpl" timestamp="1608055197852">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3018" y="319" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608055197852" />
+    <state width="1877" height="308" key="GridCell.Tab.0.bottom" timestamp="1608247118956">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="308" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608247118956" />
+    <state width="1877" height="308" key="GridCell.Tab.0.center" timestamp="1608247118956">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="308" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608247118956" />
+    <state width="1877" height="308" key="GridCell.Tab.0.left" timestamp="1608247118956">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="308" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608247118956" />
+    <state width="1877" height="308" key="GridCell.Tab.0.right" timestamp="1608247118956">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="308" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608247118956" />
+    <state width="1877" height="308" key="GridCell.Tab.1.bottom" timestamp="1608247118957">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="308" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608247118957" />
+    <state width="1877" height="308" key="GridCell.Tab.1.center" timestamp="1608247118956">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="308" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608247118956" />
+    <state width="1877" height="308" key="GridCell.Tab.1.left" timestamp="1608247118956">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="308" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608247118956" />
+    <state width="1877" height="308" key="GridCell.Tab.1.right" timestamp="1608247118956">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="308" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608247118956" />
+    <state x="2275" y="307" key="SettingsEditor" timestamp="1607870770941">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2275" y="307" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607870770941" />
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1608056513117">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608056513117" />
+    <state x="2388" y="249" key="new project wizard" timestamp="1607870501679">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2388" y="249" key="new project wizard/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607870501679" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1607870783935">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607870783935" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607881632290">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607881632290" />
+  </component>
+</project>
