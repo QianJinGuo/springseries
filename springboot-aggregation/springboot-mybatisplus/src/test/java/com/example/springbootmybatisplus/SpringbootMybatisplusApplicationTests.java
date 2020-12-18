@@ -154,4 +154,22 @@ class SpringbootMybatisplusApplicationTests {
         int result=userMapper.deleteByMap(map);
         System.out.println(result);
     }
+
+    @Test
+    public void testLogicDelete() {
+        int result = userMapper.deleteById(1L);
+        System.out.println(result);
+    }
+
+    /**
+     * 测试 性能分析插件
+     */
+    @Test
+    public void testPerformance() {
+        User user = new User();
+        user.setName("我是Helen");
+        user.setEmail("helen@sina.com");
+        user.setAge(18);
+        userMapper.insert(user);
+    }
 }

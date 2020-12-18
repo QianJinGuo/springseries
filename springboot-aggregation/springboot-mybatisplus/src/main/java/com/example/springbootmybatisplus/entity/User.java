@@ -22,9 +22,10 @@ public class User {
     private Integer age;
     private String email;
 
-    @TableField(fill = FieldFill.INSERT)
+    @TableField(fill = FieldFill.INSERT,value = "create_time")
     //create_time  数据库下划线，实体要写驼峰型
     private Date createTime;
+
     @TableField(fill = FieldFill.INSERT_UPDATE)
     //update_time
     private Date updateTime;
